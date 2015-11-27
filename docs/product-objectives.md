@@ -3,7 +3,7 @@ Product objectives
 The Chow Shed website
 
 Introduction (or Mission Statement or something...)
- - The corner of Bowen Street and The Terrace has long been a place devoid of civil society, humanity, and a place where you can have a decent cup of coffee in a relaxing but cheerful environment. We aim to preserve this tradition. By utilizing the known efficiencies of the Rotary Cow Shed to maximize the throughput of our chosen customer base (Treasury Officials), while minimizing both the cost and optimizing the casualty rate, we aim to combine the cold-hearted but cost-effective and economically rational approach of the Treasury with the proven practicalites of the New Zealand Dairy industry. This one is bound to be a winner.
+ - The corner of Bowen Street and The Terrace has long been a place devoid of civil society, humanity, and a place where you can have a decent cup of coffee in a relaxing but cheerful environment. We aim to preserve this tradition. By utilizing the known efficiencies of the Rotary Cow Shed to maximize the throughput of our chosen customer base (Treasury Officials), while minimizing both the cost and optimizing the casualty rate, we aim to combine the cold-hearted but cost-effective and economically rational approach of the Treasury with the proven practicalites of the New Zealand Dairy industry. This website will clearly explain this ground-breaking radical approach to our user base. This one is bound to be a winner.
 
 
  - Objectives:
@@ -17,8 +17,10 @@ Introduction (or Mission Statement or something...)
   - to make lots of money
 
  - Metrics:
-  - to improve the speed of caffeine and calorie loading for Tresury Officials by 150% in the first week
+  - to improve the speed of caffeine and calorie loading for Tresury Officials
   - to reduce the cost of caffeine and calorie ingredients to previously unseen levels. This will be done be dispensing with unneccesary things such as quality.
 
 
  Success metrics (first quarter)
+  - to increase the speed of caffeine and calorie loading by 150% within the first quarter
+  - to reduce the average duration of the Treasury lunch break by 50%

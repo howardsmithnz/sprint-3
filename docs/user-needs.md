@@ -1,6 +1,6 @@
 User Needs
 
- - to quickly and efficiently complete the necessary loading of caffeine and calories in the fastest time possible, to enable Tresury Staff to resume their very important tasks, such as economic modelling or calculating the efficiency of economists.
+ - to quickly and efficiently complete the necessary loading of caffeine and calories in the fastest time possible, to enable Treasury Staff to resume their very important tasks, such as economic modelling or calculating the efficiency of economists.
 
  Branding
 
@@ -10,7 +10,7 @@ User Needs
 
   - Mission
    - to bring cold-hearted efficiency to the Treasury lunch break
-   
+
   - Brand
    - Austere and efficient
    - Lots of grey concrete and hosable surfaces

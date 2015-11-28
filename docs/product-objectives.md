@@ -3,7 +3,7 @@ Product objectives
 The Chow Shed website
 
 Introduction (or Mission Statement or something...)
- - The corner of Bowen Street and The Terrace has long been a place devoid of civil society, humanity, and a place where you can have a decent cup of coffee in a relaxing but cheerful environment. We aim to preserve this tradition. By utilizing the known efficiencies of the Rotary Cow Shed to maximize the throughput of our chosen customer base (Treasury Officials), while minimizing both the cost and optimizing the casualty rate, we aim to combine the cold-hearted but cost-effective and economically rational approach of the Treasury with the proven practicalites of the New Zealand Dairy industry. This website will clearly explain this ground-breaking radical approach to our user base. This one is bound to be a winner.
+ - The corner of Bowen Street and The Terrace has long been a place devoid of civil society, humanity, and a place where you can have a decent cup of coffee in a relaxing but cheerful environment. We aim to preserve this tradition. By utilizing the known efficiencies of the Rotary Cow Shed to maximize the throughput of our chosen customer base (Treasury Officials), while minimizing both the cost and optimizing the casualty rate, we aim to combine the cold-hearted but cost-effective and economically rational approach of the Treasury with the proven practicalites of the New Zealand Dairy industry. This website will clearly explain this ground-breaking radical approach to our user base. This one is bound to be a winner. 
 
 
  - Objectives:
@@ -14,7 +14,7 @@ Introduction (or Mission Statement or something...)
    - website will emphasize the efficency of our economically rational approach to our customers
 
  - Goal:
-  - to make lots of money
+  - to make lots of money by reducing unneccessary costs and quality
 
  - Metrics:
   - to improve the speed of caffeine and calorie loading for Tresury Officials
